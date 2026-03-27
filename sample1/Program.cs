@@ -30,10 +30,10 @@ class Program
         Console.WriteLine(json);
 
         // Image source: argument 1, sinon "input.jpg" dans le dossier courant.
-        var inputPath = args.Length > 0 ? args[0] : "input.jpg";
+        var inputPath = args.Length > 0 ? args[0] : "image_mignonne.jpg";
         var outputDirectory = Path.Combine(Directory.GetCurrentDirectory(), "output");
         Directory.CreateDirectory(outputDirectory);
-        var outputPath = Path.Combine(outputDirectory, "resized.jpg");
+        var outputPath = Path.Combine(outputDirectory, "image_resized.jpg");
 
         if (!File.Exists(inputPath))
         {
