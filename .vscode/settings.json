@@ -1,0 +1,8 @@
+{
+    "azureFunctions.deploySubpath": "sample1/ResizeFunction/bin/Release/net8.0/publish",
+    "azureFunctions.projectLanguage": "C#",
+    "azureFunctions.projectRuntime": "~4",
+    "debug.internalConsoleOptions": "neverOpen",
+    "azureFunctions.projectSubpath": "sample1/ResizeFunction",
+    "azureFunctions.preDeployTask": "publish (functions)"
+}
