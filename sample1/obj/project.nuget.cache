@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fmfaGz72yPQ=",
+  "success": true,
+  "projectFilePath": "/workspaces/AA-Serverless-NET/sample1/sample1.csproj",
+  "expectedPackageFiles": [
+    "/home/vscode/.nuget/packages/newtonsoft.json/13.0.4/newtonsoft.json.13.0.4.nupkg.sha512",
+    "/home/vscode/.nuget/packages/sixlabors.imagesharp/3.1.12/sixlabors.imagesharp.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}
